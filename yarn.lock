@@ -920,10 +920,10 @@
     resolve-global "1.0.0"
     yargs "^15.1.0"
 
-"@commitlint/config-conventional@^11.0.0":
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-11.0.0.tgz#3fa300a1b639273946de3c3f15e1cda518333422"
-  integrity sha512-SNDRsb5gLuDd2PL83yCOQX6pE7gevC79UPFx+GLbLfw6jGnnbO9/tlL76MLD8MOViqGbo7ZicjChO9Gn+7tHhA==
+"@commitlint/config-conventional@^17.0.0":
+  version "17.0.0"
+  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-17.0.0.tgz#7dc2ef3ac1a11ff62bcd333343cc8921edd1646a"
+  integrity sha512-jttJXBIq3AuQCvUVwxSctCwKfHxxbALE0IB9OIHYCu/eQdOzPxN72pugeZsWDo1VK/T9iFx+MZoPb6Rb1/ylsw==
   dependencies:
     conventional-changelog-conventionalcommits "^4.3.1"
 
@@ -13220,10 +13220,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
